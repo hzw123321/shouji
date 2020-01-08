@@ -74,7 +74,7 @@ export default {
   padding-bottom: 50px;
 }
 .header {
-  height: 300px;
+  height: 200px;
   overflow: hidden;
 }
 .header img {
